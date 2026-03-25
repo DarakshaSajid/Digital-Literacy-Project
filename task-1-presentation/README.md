@@ -1,1 +1,2 @@
 
+This infographic highlights the key aspects of digital literacy for students and professionals. It explains that digital literacy involves effectively using and evaluating information online. It also emphasizes essential tools like Google Workspace and collaboration platforms, along with safe internet practices such as using strong passwords and recognizing phishing. Additionally, it focuses on maintaining a professional online presence and following proper email etiquette. Overall, it provides a quick guide to using digital technologies responsibly and effectively.
