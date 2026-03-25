@@ -4,9 +4,12 @@ Project Overview
 This project focuses on understanding and applying the concept of digital literacy in academic and real-life contexts. As a Student Digital Ambassador, the objective of this project was to explore various digital tools, build a professional online presence, practise coding skills, and spread awareness about safe and responsible use of technology.
 The project is divided into multiple modules, each targeting a specific area such as digital awareness, portfolio building, coding practice, professional communication, and cybercrime prevention. Through these tasks, I gained hands-on experience with platforms like GitHub, LinkedIn, HackerRank, and Google Workspace tools.
 Overall, this project helped me develop both technical and communication skills, while also making me more aware of my digital footprint and online safety practices.
+
 Module Summaries
+
 Module 1: Digital Literacy Awareness
 In this module, I created an infographic using Canva to explain the concept of digital literacy. It covered key topics like safe internet practices, useful digital tools, professional online presence, and email etiquette. This module helped me understand how to present information in a simple and visually appealing way.
+
 Module 2: Student Digital Portfolio
 In this module, I created and updated my profiles on GitHub, LinkedIn, and Kaggle. I learned how these platforms are used to showcase skills, build a professional identity, and connect with opportunities. It also helped me understand the importance of maintaining a strong digital presence.
 
