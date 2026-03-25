@@ -1,1 +1,5 @@
-
+This activity also helped me to explore coding platforms as well as collaborative tools, which are significant for personal as well as professional development. Working on platforms such as HackerRank/CodeChef/HackerEarth, I solved a beginner-level problem on the platform. This helped me to enhance my problem-solving skills, as well as increase my knowledge of the way coding problems are framed.
+It also helped me to increase my level of confidence, as well as motivate myself to continue practicing to enhance my coding skills.
+In addition, I have also gained knowledge about tracking my progress by means of scores as well as badges, which helped me to make the learning process even more interesting.
+In the second part, I designed a Google Form with the title “Digital Literacy Awareness Quiz.” This helped me understand how best to design meaningful questions that can be used to assess awareness about online safety and digital responsibility.
+Overall, this task improved my technical skills, as well as my ability to use technology for a given purpose. It also improved my understanding of the need for collaboration, data collection, and a structured workflow in a digital environment.
